@@ -1,0 +1,5 @@
+.idea
+charmander
+.settings
+*.pyc
+__pycache__
