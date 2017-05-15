@@ -3,8 +3,7 @@
 [Based on Dr. Pearce's lecture](http://www.cs.sjsu.edu/faculty/pearce/modules/projects/oop/agency/index.htm)
 
 ### Motivation
-Try and implement the [agency platform](https://github
-.com/sidmishraw/agency_platform) implemented in Java8 in python and compare 
+Try and implement the [agency platform](https://github.com/sidmishraw/agency_platform) implemented in Java8 in python and compare 
 the ease of programming and design changes etc.
 
 All in all, I'm doing this just for fun!
